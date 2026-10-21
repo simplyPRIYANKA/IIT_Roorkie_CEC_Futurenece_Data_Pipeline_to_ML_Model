@@ -1,0 +1,8 @@
+product_id,product_name,category,sub_category,brand,mrp,cost_price,unit,is_perishable,launch_date,failure_reason,_source_file,_source_row
+P0019,Desi Farms Fresh Vegetables 19,Fruits & Vegetables,Fresh Vegetables,Desi Farms,220.0,264.0,kg,True,2023-07-23,cost_price_above_mrp,products.csv,19
+P0073,GoldenGrain Dal 23,Staples,Dal,GoldenGrain,279.0,334.8,pack,False,2024-03-20,cost_price_above_mrp,products.csv,73
+P0074,SunPress Dal 24,Staples,Dal,SunPress,350.0,420.0,pack,False,2024-06-07,cost_price_above_mrp,products.csv,74
+P0109,SmileBright Shampoo 9,Personal Care,Shampoo,SmileBright,-203.0,162.5,unit,False,2024-04-26,mrp_not_positive; cost_price_above_mrp,products.csv,109
+P0117,HerbVeda Oral Care 17,Personal Care,Oral Care,HerbVeda,77.0,92.4,unit,False,2025-03-02,cost_price_above_mrp,products.csv,117
+P0030,Kaveri Dairy Milk 5 (old),Dairy & Bakery,Milk,Kaveri Dairy,45.0,40.39,pack,True,2023-03-14,duplicate_product_id,products.csv,151
+P0140,CleanPro Detergent 15 (old),Household,Detergent,CleanPro,328.0,251.46,unit,False,2024-03-27,duplicate_product_id,products.csv,152
